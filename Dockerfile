@@ -1,5 +1,5 @@
 # Fix einfügen
-# Feature Docker file
+# Feature2 docker file
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
